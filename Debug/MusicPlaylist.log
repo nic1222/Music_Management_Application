@@ -1,0 +1,9 @@
+﻿  MusicPlaylists.cpp
+C:\Users\user\source\repos\MusicPlaylist\MusicPlaylist\MusicPlaylists.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\MusicPlaylist\MusicPlaylist\MusicPlaylists.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\MusicPlaylist\MusicPlaylist\MusicPlaylists.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\MusicPlaylist\MusicPlaylist\MusicPlaylists.cpp(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\MusicPlaylist\MusicPlaylist\Playlists.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\MusicPlaylist\MusicPlaylist\Playlists.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\MusicPlaylist\MusicPlaylist\MusicPlaylists.cpp(141,7): warning C4101: 'found': unreferenced local variable
+  MusicPlaylist.vcxproj -> C:\Users\user\source\repos\MusicPlaylist\Debug\MusicPlaylist.exe
